@@ -8,3 +8,6 @@ The script can interpret the data in live mode (taking derivatives of already re
 The script can transmit a telecommand, which initiates operation of the satellite (a simple transmission of a code-word via the serial port, the satellite is programmed to listen for it while in idle mode).
 
 P.S. Communication is achieved using an antenna connected to a serial port (the exact port must be defined within the script).
+
+
+![CanSat GS Software Demo](demo/demo.gif)
